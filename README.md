@@ -31,5 +31,4 @@ The YouTube Clone Application is a platform that allows users to upload, publish
 
 ### Installation
 1. Clone the repository:
-   ```sh
-https://github.com/suryatop/Android_Video_Stream
+   ```sg https://github.com/suryatop/Android_Video_Stream

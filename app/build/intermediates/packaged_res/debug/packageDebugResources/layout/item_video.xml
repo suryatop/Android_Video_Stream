@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="10dp"
+    android:background="?attr/selectableItemBackground">
+
+    <ImageView
+        android:id="@+id/thumbnail"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:adjustViewBounds="true"
+        android:background="#B6DAD9D9"
+        android:minHeight="160dp" />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/channel_logo"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_below="@+id/thumbnail"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="12dp"
+        android:src="@drawable/profile_user_64572"
+        app:civ_border_color="@color/DarkGrey">
+    </de.hdodenhof.circleimageview.CircleImageView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@+id/channel_logo"
+        android:layout_below="@+id/thumbnail"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/VideoTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Video Title"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:fontFamily="@font/droid"
+            android:textSize="15sp"
+            android:layout_marginStart="4dp"
+            android:includeFontPadding="false">
+        </TextView>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="4dp">
+
+            <TextView
+                android:id="@+id/channel_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Channel Name"
+                android:textSize="12sp"/>
+            <TextView
+                android:id="@+id/views"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:text="views"
+                android:textSize="12sp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:text="Date"
+                android:id="@+id/date"
+                android:textSize="12sp"
+                android:fontFamily="@font/droid" />
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

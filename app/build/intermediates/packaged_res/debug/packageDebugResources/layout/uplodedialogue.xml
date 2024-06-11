@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_gravity="center">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="8dp"
+        android:orientation="vertical"
+        android:padding="10dp">
+        <RelativeLayout
+            android:background="@drawable/editext_bg"
+            android:id="@+id/r"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:padding="5dp"
+            android:layout_marginTop="10dp">
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/baseline_upload_24"/>
+            <ImageView
+                android:id="@+id/Video"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/imageView"
+                android:orientation="vertical"
+                android:layout_marginStart="5dp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/imageView"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/txt_upload_video"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingStart="5dp"
+                    android:text="Upload Video"
+                    android:textSize="17sp"
+                    android:fontFamily="@font/roboto_bold"
+                    android:textColor="#2196F3"/>
+                <TextView
+                    android:id="@+id/txt_comments"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Publish your video"
+                    android:paddingStart="5dp"
+                    android:textSize="13sp"
+                    android:fontFamily="@font/droid"
+                    android:textColor="#F32121"/>
+            </LinearLayout>
+        </RelativeLayout>
+        <RelativeLayout
+            android:background="@drawable/editext_bg"
+            android:id="@+id/r2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:padding="5dp"
+            android:layout_marginTop="10dp">
+            <ImageView
+                android:id="@+id/imageView_2"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/baseline_post_add_24"/>
+            <ImageView
+                android:id="@+id/Video_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/imageView_2"
+                android:orientation="vertical"
+                android:layout_marginStart="5dp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/imageView_2"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/txt_upload_post"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingStart="5dp"
+                    android:text="Upload Post"
+                    android:textSize="17sp"
+                    android:fontFamily="@font/roboto_bold"
+                    android:textColor="#2196F3"/>
+                <TextView
+                    android:id="@+id/txt_comments_2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Share your Post"
+                    android:paddingStart="5dp"
+                    android:textSize="13sp"
+                    android:fontFamily="@font/droid"
+                    android:textColor="#F32121"/>
+            </LinearLayout>
+        </RelativeLayout>
+        <RelativeLayout
+            android:background="@drawable/editext_bg"
+            android:id="@+id/r3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:padding="5dp"
+            android:layout_marginTop="10dp">
+            <ImageView
+                android:id="@+id/imageView_3"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/baseline_poll_24"/>
+            <ImageView
+                android:id="@+id/Video_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/imageView_3"
+                android:orientation="vertical"
+                android:layout_marginStart="5dp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/imageView_3"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/txt_upload_poll"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingStart="5dp"
+                    android:text="Make a Poll"
+                    android:textSize="17sp"
+                    android:fontFamily="@font/roboto_bold"
+                    android:textColor="#2196F3"/>
+                <TextView
+                    android:id="@+id/txt_comments_3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Create a Poll"
+                    android:paddingStart="5dp"
+                    android:textSize="13sp"
+                    android:fontFamily="@font/droid"
+                    android:textColor="#F32121"/>
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+</RelativeLayout>

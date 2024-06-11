@@ -1,0 +1,10 @@
+#Tue Jun 11 16:01:53 IST 2024
+base.0=/Users/suryatopsasmal/Developer/YouTube_Clone/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+base.1=/Users/suryatopsasmal/Developer/YouTube_Clone/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.2=/Users/suryatopsasmal/Developer/YouTube_Clone/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/9/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=9/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex

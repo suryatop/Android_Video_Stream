@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/drawable-nodpi_add.png.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/drawable-nodpi/add.png"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/layout_fragment_setting.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/layout/fragment_setting.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/drawable_baseline_upload_24.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/drawable/baseline_upload_24.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/layout_fragment_home.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/layout_play_list_dialog.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/layout/play_list_dialog.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/drawable_baseline_poll_24.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/drawable/baseline_poll_24.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/layout_fragment_subscritption.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/layout/fragment_subscritption.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/layout_dashboard_subscription.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/layout/dashboard_subscription.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/drawable_google_icon.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/drawable/google_icon.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/drawable_download.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/drawable/download.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/drawable_uplode_progress_style.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/drawable/uplode_progress_style.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/menu_toolbar_menu.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/menu/toolbar_menu.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/font_befold.ttf.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/font/befold.ttf"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/drawable_baseline_history_24.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/drawable/baseline_history_24.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/layout_activity_main.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/layout_fragment_publish.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/layout/fragment_publish.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/mipmap-mdpi_ic_bell.png.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/mipmap-mdpi/ic_bell.png"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/drawable_sub.png.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/drawable/sub.png"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/drawable_editext_bg.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/drawable/editext_bg.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/layout_fragment_channel_dashboard.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/layout/fragment_channel_dashboard.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/drawable_help.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/drawable/help.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/layout_dashboard_video.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/layout/dashboard_video.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/xml_data_extraction_rules.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/drawable-nodpi_icons8_search_250.png.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/drawable-nodpi/icons8_search_250.png"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/layout_signing_page.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/layout/signing_page.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/drawable_button_sign.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/drawable/button_sign.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/layout_item_video.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/layout/item_video.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/xml_backup_rules.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/layout_dashboard_playlist.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/layout/dashboard_playlist.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/font_roboto_bold.ttf.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/font/roboto_bold.ttf"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/layout_fragment_shorts.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/layout/fragment_shorts.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/layout_dashboard_home.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/layout/dashboard_home.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/drawable-nodpi_bell.png.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/drawable-nodpi/bell.png"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/layout_playlist_item.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/layout/playlist_item.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/drawable-nodpi_shor.png.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/drawable-nodpi/shor.png"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/drawable_library.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/drawable/library.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/drawable_channel.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/drawable/channel.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/font_alexbrushbegular.ttf.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/font/alexbrushbegular.ttf"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/font_droid.ttf.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/font/droid.ttf"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/layout_activity_publish_content.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/layout/activity_publish_content.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/menu_bottom_menu.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/menu/bottom_menu.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/layout_activity_account.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/layout/activity_account.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/mipmap-hdpi_ic_bell.png.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/mipmap-hdpi/ic_bell.png"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/drawable_ripple_effect.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/drawable/ripple_effect.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/mipmap-xhdpi_ic_bell.png.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/mipmap-xhdpi/ic_bell.png"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/drawable_app_logo.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/drawable/app_logo.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/drawable_baseline_post_add_24.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/drawable/baseline_post_add_24.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/drawable_watch_later.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/drawable/watch_later.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/drawable_button_bg.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/drawable/button_bg.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/drawable_video_camera_svgrepo_com.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/drawable/video_camera_svgrepo_com.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/layout_dashboard_about.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/layout/dashboard_about.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/drawable-nodpi_profile_user_64572.png.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/drawable-nodpi/profile_user_64572.png"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/layout_channel_dialog.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/layout/channel_dialog.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/drawable-mdpi_home.png.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/drawable-mdpi/home.png"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/mipmap-xxxhdpi_ic_bell.png.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/mipmap-xxxhdpi/ic_bell.png"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/drawable_setting.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/drawable/setting.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/mipmap-xxhdpi_ic_bell.png.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/mipmap-xxhdpi/ic_bell.png"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/drawable_favorite.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/drawable/favorite.xml"
+    },
+    {
+        "merged": "com.suryatop.youtube_clone.app-debug-43:/layout_uplodedialogue.xml.flat",
+        "source": "com.suryatop.youtube_clone.app-main-45:/layout/uplodedialogue.xml"
+    }
+]

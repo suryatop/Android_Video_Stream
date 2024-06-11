@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#07357C"/> <!-- Darker blue background color -->
+    <!-- Rounded corners -->
+    <corners android:radius="5dp"/>
+    <!-- 3D effect stroke -->
+    <stroke
+        android:width="2dp"
+        android:color="#3C9DEA"/>
+    <!-- Gradient for inner area -->
+    <gradient
+        android:angle="135"
+        android:startColor="#3682D8"
+    android:endColor="#0D5791"/> <!-- Darker color -->
+</shape>

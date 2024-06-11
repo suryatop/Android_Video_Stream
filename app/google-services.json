@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "244487152891",
+    "firebase_url": "https://streaming-a5e88-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "streaming-a5e88",
+    "storage_bucket": "streaming-a5e88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244487152891:android:5af6b83026c971731a3c5e",
+        "android_client_info": {
+          "package_name": "com.suryatop.youtube_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244487152891-95d9uf6hh2b5kbeidqfls067p6i7kn09.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suryatop.youtube_clone",
+            "certificate_hash": "150702a19409a92a26f5aad715984d633da9095d"
+          }
+        },
+        {
+          "client_id": "244487152891-1ogkh3sahp8559ngl65ofh0r8k74t5qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnC39bujnCju2q-bflYZW1op8TSTcQlwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244487152891-1ogkh3sahp8559ngl65ofh0r8k74t5qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

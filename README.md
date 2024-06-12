@@ -15,6 +15,8 @@ The YouTube Clone Application is a platform that allows users to upload, publish
 <!-- Add screenshots of your app here -->
 ![Screenshot 1](https://ibb.co/6y2JGq4)
 ![Screenshot 1](https://github.com/suryatop/Android_Video_Stream/assets/68681080/2c16467f-f92b-4113-9bb8-03df6f02ad63)
+![Screenshot 1](https://github.com/suryatop/Android_Video_Stream/assets/68681080/2c16467f-f92b-4113-9bb8-03df6f02ad63)
+![Screenshot 1](https://github.com/suryatop/Android_Video_Stream/assets/68681080/2c16467f-f92b-4113-9bb8-03df6f02ad63)
 ![Screenshot 2](https://ibb.co/Std70bj)
 ![Screenshot 2](https://ibb.co/5LYyDbm)
 ![Screenshot 2](https://ibb.co/rQNtYOZ)

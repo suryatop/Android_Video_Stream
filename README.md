@@ -21,7 +21,7 @@ The YouTube Clone Application is a platform that allows users to upload, publish
 <img src="https://github.com/suryatop/Android_Video_Stream/assets/68681080/140b7ae4-cba9-4b18-91c9-6c8a5d9ad8ec" width="295.2" height="640">
 <img src="https://github.com/suryatop/Android_Video_Stream/assets/68681080/5be6c695-156d-4174-bc92-16898a147667" width="295.2" height="640">
 
-
+used Documents = https://www.geeksforgeeks.org/how-to-generate-sha-1-fingerprint-of-keystore-certificate-in-android-studio/
 
 
 ## Getting Started

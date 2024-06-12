@@ -13,16 +13,15 @@ The YouTube Clone Application is a platform that allows users to upload, publish
 
 ## Screenshots
 <!-- Add screenshots of your app here -->
-![Screenshot 1](https://ibb.co/6y2JGq4)
-<img src="https://github.com/suryatop/Android_Video_Stream/assets/68681080/2c16467f-f92b-4113-9bb8-03df6f02ad63" width="442.8" height="960">
-![Screenshot 1](https://github.com/suryatop/Android_Video_Stream/assets/68681080/2c16467f-f92b-4113-9bb8-03df6f02ad63)
-![Screenshot 1](https://github.com/suryatop/Android_Video_Stream/assets/68681080/2c16467f-f92b-4113-9bb8-03df6f02ad63)
-![Screenshot 2](https://ibb.co/Std70bj)
-![Screenshot 2](https://ibb.co/5LYyDbm)
-![Screenshot 2](https://ibb.co/rQNtYOZ)
-![Screenshot 2](https://ibb.co/2YSBK0S)
-![Screenshot 2](https://ibb.co/0YCk80P)
-![Screenshot 2](https://ibb.co/RDvw3vG)
+<img src="https://github.com/suryatop/Android_Video_Stream/assets/68681080/2c16467f-f92b-4113-9bb8-03df6f02ad63" width="295.2" height="640">
+<img src="https://github.com/suryatop/Android_Video_Stream/assets/68681080/0ac9a8f7-5b23-4d9b-8267-374da5c10e9e" width="295.2" height="640">
+<img src="https://github.com/suryatop/Android_Video_Stream/assets/68681080/d983507e-e1aa-4a93-97dd-a2b74cc95c6e" width="295.2" height="640">
+<img src="https://github.com/suryatop/Android_Video_Stream/assets/68681080/eab4ae38-dc53-4d32-bca3-e625d33dcc99" width="295.2" height="640">
+<img src="https://github.com/suryatop/Android_Video_Stream/assets/68681080/3b320718-6288-44ff-848d-9736d75ccd9d" width="295.2" height="640">
+<img src="https://github.com/suryatop/Android_Video_Stream/assets/68681080/140b7ae4-cba9-4b18-91c9-6c8a5d9ad8ec" width="295.2" height="640">
+<img src="https://github.com/suryatop/Android_Video_Stream/assets/68681080/5be6c695-156d-4174-bc92-16898a147667" width="295.2" height="640">
+
+
 
 
 ## Getting Started
@@ -32,6 +31,3 @@ The YouTube Clone Application is a platform that allows users to upload, publish
 - [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html)
 - [Firebase Account](https://firebase.google.com/)
 
-### Installation
-1. Clone the repository:
-   ```sg https://github.com/suryatop/Android_Video_Stream

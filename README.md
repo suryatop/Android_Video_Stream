@@ -1,7 +1,7 @@
 # Android_Video_Stream
 
 ## Introduction
-The YouTube Clone Application is a platform that allows users to upload, publish, and stream videos. Developed using Java and XML, this application uses Firebase to handle real-time database and cloud storage functionalities. Users can seamlessly upload their videos to the cloud and stream them directly from the platform.
+The Video_Stream Application is a platform that allows users to upload, publish, and stream videos. Developed using Java and XML, this application uses Firebase to handle real-time database and cloud storage functionalities. Users can seamlessly upload their videos to the cloud and stream them directly from the platform.
 
 ## Features
 - **User Authentication**: Secure user login and registration.
